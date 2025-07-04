@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.1.0",
-  "download_url": "https://github.com/hilmiguner/DeejApp/releases/download/v0.1.0/DeejApp.Setup.0.1.0.exe",
+  "latest_version": "0.1.1-alpha",
+  "download_url": "https://github.com/hilmiguner/DeejApp/releases/download/v0.1.1-alpha/DeejApp.Setup.0.1.1-alpha.exe",
   "release_notes": "🔊 Yeni özellikler: \n- CH340 otomatik kurulum\n- Performans iyileştirmeleri"
 }
